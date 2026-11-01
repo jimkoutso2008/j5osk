@@ -1,4 +1,4 @@
-# j5osk
+# j5osk (i dont even know man i should have given it osk.exe fuuuuuuuuuuuuuuuuuuuuuu(3 lakes were erased for this one))
 
 A minimal on-screen keyboard for **Windows PE on ARM64**. It was made for the
 Galaxy J5 2016 port ([edk2-msm8916-j5xlte](https://github.com/jimkoutso2008/edk2-msm8916-j5xlte),
